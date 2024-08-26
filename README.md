@@ -22,11 +22,6 @@ This repository contains R scripts for analyzing unemployment and job vacancy da
 
 This repository contains R scripts that analyze unemployment and job vacancy data. The datasets are anonymized and contain information about unemployment rates for men and women, as well as job vacancies across various economic activities.
 
-## Unemployment Analysis
-
-### Summary Statistics
-
-The script starts by summarizing unemployment data, including minimum, maximum, median, and mean values for men and women.
 
 ```r
 # Load necessary libraries
@@ -40,8 +35,6 @@ library(ggplot2)
 library(rio)
 library(xlsx)
 
-# View dataset
-View(NedarboLygis)
 
 # Rename column
 names(NedarboLygis)[2] <- "laikotarpis"
