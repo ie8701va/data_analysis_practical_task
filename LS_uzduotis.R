@@ -1,4 +1,4 @@
-### 1.1. P.S. Nedarbo lygio duomenis importavau praleidus pirmas tris eilutes.
+### 1.1. P.S. Importuoti duomenys anonimizuoti
 
 library(tibble)
 library(dplyr)
