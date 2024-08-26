@@ -1,6 +1,6 @@
 # Unemployment and Job Vacancy Analysis
 
-This repository contains R scripts for analyzing unemployment and job vacancy data. The analysis includes data manipulation, visualization, and correlation studies based on historical unemployment rates and job vacancies.
+This repository contains R scripts for analyzing unemployment and job vacancy data. The analysis includes data manipulation, visualization, and correlation studies based on historical unemployment rates and job vacancies. The script was created as part of a data analysis practical task for the internship at the Lithuanian Statistics Department
 
 ## Table of Contents
 
